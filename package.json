@@ -1,0 +1,15 @@
+{
+   "name": "mber-tree",
+   "version": "0.0.1",
+   "description": "JavaScript based tree element",
+   "main": "mber-tree.html",
+   "scripts": {
+      "run": "lite-server"
+   },
+   "keywords": ["tree"],
+   "author": "Misha Ber",
+   "license": "MIT",
+   "devDependencies": {
+      "lite-server": "^2.3.0"
+   }
+}

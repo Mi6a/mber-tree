@@ -8,7 +8,7 @@
          "type": "chrome",
          "request": "launch",
          "name": "Chrome tree.html",
-         "url": "file:///D:/project/tree-my/tree.html",
+         "url": "file:///D:/project/mber-tree/mber-tree.html",
          "webRoot": "${workspaceFolder}"
       }
    ]
